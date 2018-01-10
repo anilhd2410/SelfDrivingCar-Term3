@@ -10,7 +10,7 @@ a Functional Safety Concept
 a Technical Safety Concept
 and Software Requirements
 
-And following are the output documents of the porject and also can fins corresponding pdf files:
+And following are the output documents of the porject and also can find corresponding pdf files:
 
 * 01_SafetyPlan_LaneAssistance.doc
 
@@ -22,6 +22,7 @@ And following are the output documents of the porject and also can fins correspo
 
 * 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
 
+Project basically covers complete steps involved in V model of Safety system porcess model.
 
 
 
