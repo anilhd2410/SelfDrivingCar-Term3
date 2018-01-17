@@ -37,5 +37,5 @@ In this project your goal is to safely navigate around a virtual highway with ot
 ---
 ## Result 
 * The car is able to drive at least 4.32 miles without incident
-![GitHub Logo](images/PathPlanningSnapshot 1.png)
+![GitHub Logo](images/PathPlanningSnapshot1.png)
 Format: ![Alt Text](url)
