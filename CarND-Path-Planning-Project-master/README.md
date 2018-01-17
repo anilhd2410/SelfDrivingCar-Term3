@@ -43,10 +43,10 @@ In this project your goal is to safely navigate around a virtual highway with ot
 <img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PlathPlanningSnapshot2.png" width=500 height=300/>
 
 It also fulfills other requirements of the project 
-•	The car drive according to below speed limit and doesn’t exceed the 50MPH
-•	The Car does not exceed the total acceleration of 10 10 m/s^2 and a jerk of 10 m/s^3.
-•	Car does not come into contact with any other cars on the road
-•	The car does not spend more than a 3-second length outside the lane lanes during changing lanes, and every other time the car stays inside one of the 3 lanes on the right hand side of the road.
+*	The car drive according to below speed limit and doesn’t exceed the 50MPH
+*	The Car does not exceed the total acceleration of 10 10 m/s^2 and a jerk of 10 m/s^3.
+*	Car does not come into contact with any other cars on the road
+*	The car does not spend more than a 3-second length outside the lane lanes during changing lanes, and every other time the car stays inside one of the 3 lanes on the right hand side of the road.
 
 Please find more information about the implemenation in ModelDocumentation.pdf
 <a href="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/Model Documentation.pdf">Read More </a>
