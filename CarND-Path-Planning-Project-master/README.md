@@ -37,10 +37,10 @@ In this project your goal is to safely navigate around a virtual highway with ot
 ---
 ## Result 
 * The car is able to drive at least 4.32 miles without incident
-<img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PathPlanningSnapshot1.png" width=500 height=500/>
+<img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PathPlanningSnapshot1.png" width=500 height=300/>
 
 * The car is able to change lane when necessary to pass the vehicle and to come back to the middle lane 
-<img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PlathPlanningSnapshot2.png" width=500 height=500/>
+<img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PlathPlanningSnapshot2.png" width=500 height=300/>
 
 It also fulfills other requirements of the project 
 •	The car drive according to below speed limit and doesn’t exceed the 50MPH
