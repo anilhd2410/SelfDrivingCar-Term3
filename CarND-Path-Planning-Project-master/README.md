@@ -37,4 +37,12 @@ In this project your goal is to safely navigate around a virtual highway with ot
 ---
 ## Result 
 * The car is able to drive at least 4.32 miles without incident
-<img src ="https://github.com/anilhd2410/images/PathPlanningSnapshot1.png" />
+<img src="https://github.com/anilhd2410/SelfDrivingCar-Term3/blob/master/CarND-Path-Planning-Project-master/images/PathPlanningSnapshot1.png" />
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
